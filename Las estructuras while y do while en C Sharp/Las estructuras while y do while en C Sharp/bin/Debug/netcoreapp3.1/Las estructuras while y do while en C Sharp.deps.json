@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Las estructuras while y do while en C Sharp/1.0.0": {
+        "runtime": {
+          "Las estructuras while y do while en C Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Las estructuras while y do while en C Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

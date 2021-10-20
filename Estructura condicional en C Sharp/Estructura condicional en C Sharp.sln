@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructura condicional en C Sharp", "Estructura condicional en C Sharp\Estructura condicional en C Sharp.csproj", "{51AEEE73-269B-4D3E-8C67-A33DC1EBDF16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AEEE73-269B-4D3E-8C67-A33DC1EBDF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AEEE73-269B-4D3E-8C67-A33DC1EBDF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AEEE73-269B-4D3E-8C67-A33DC1EBDF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AEEE73-269B-4D3E-8C67-A33DC1EBDF16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EC491A-09C2-42BC-AA47-98E43A22198C}
+	EndGlobalSection
+EndGlobal

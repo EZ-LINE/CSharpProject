@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>La_clase_StringBuilder_para_la_creación_de_cadenas_en_C_sharp</RootNamespace>
+  </PropertyGroup>
+
+</Project>

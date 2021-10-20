@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio triángulo de Pascal en C Sharp/1.0.0": {
+        "runtime": {
+          "Ejercicio triángulo de Pascal en C Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio triángulo de Pascal en C Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

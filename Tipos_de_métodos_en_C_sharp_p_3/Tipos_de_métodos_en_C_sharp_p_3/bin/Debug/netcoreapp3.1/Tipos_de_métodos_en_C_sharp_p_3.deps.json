@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tipos_de_métodos_en_C_sharp_p_3/1.0.0": {
+        "runtime": {
+          "Tipos_de_métodos_en_C_sharp_p_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tipos_de_métodos_en_C_sharp_p_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

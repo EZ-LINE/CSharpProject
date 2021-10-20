@@ -1,0 +1,27 @@
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.exe
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.deps.json
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.runtimeconfig.json
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.runtimeconfig.dev.json
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.dll
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.pdb
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.csproj.AssemblyReference.cache
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.AssemblyInfoInputs.cache
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.AssemblyInfo.cs
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.dll
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.pdb
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.genruntimeconfig.cache
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.exe
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.deps.json
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.runtimeconfig.json
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.runtimeconfig.dev.json
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.dll
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\Tipos de variables en C Sharp.pdb
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.csproj.AssemblyReference.cache
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.AssemblyInfoInputs.cache
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.AssemblyInfo.cs
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.dll
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.pdb
+C:\Users\NB\Documents\EZE\Curso PDHN C# .NET\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\Tipos de variables en C Sharp.genruntimeconfig.cache

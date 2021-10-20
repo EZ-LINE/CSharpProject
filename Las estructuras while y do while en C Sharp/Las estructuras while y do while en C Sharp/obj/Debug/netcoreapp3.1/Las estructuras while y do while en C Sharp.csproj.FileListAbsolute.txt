@@ -1,0 +1,13 @@
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\bin\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.exe
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\bin\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.deps.json
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\bin\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.runtimeconfig.json
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\bin\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.runtimeconfig.dev.json
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\bin\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.dll
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\bin\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.pdb
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.AssemblyInfoInputs.cache
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.AssemblyInfo.cs
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.dll
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.pdb
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.genruntimeconfig.cache
+C:\Users\NB\source\repos\Las estructuras while y do while en C Sharp\Las estructuras while y do while en C Sharp\obj\Debug\netcoreapp3.1\Las estructuras while y do while en C Sharp.csproj.AssemblyReference.cache

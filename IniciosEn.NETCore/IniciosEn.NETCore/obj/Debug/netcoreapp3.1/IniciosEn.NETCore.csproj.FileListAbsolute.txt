@@ -1,0 +1,13 @@
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\IniciosEn.NETCore.exe
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\IniciosEn.NETCore.deps.json
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\IniciosEn.NETCore.runtimeconfig.json
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\IniciosEn.NETCore.runtimeconfig.dev.json
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\IniciosEn.NETCore.dll
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\bin\Debug\netcoreapp3.1\IniciosEn.NETCore.pdb
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.csproj.AssemblyReference.cache
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.AssemblyInfoInputs.cache
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.AssemblyInfo.cs
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.dll
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.pdb
+C:\Users\NB\source\repos\IniciosEn.NETCore\IniciosEn.NETCore\obj\Debug\netcoreapp3.1\IniciosEn.NETCore.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos_de_métodos_en_C_sharp_p_3", "Tipos_de_métodos_en_C_sharp_p_3\Tipos_de_métodos_en_C_sharp_p_3.csproj", "{22356143-29E5-4DC7-AADD-808DDA2E9367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22356143-29E5-4DC7-AADD-808DDA2E9367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22356143-29E5-4DC7-AADD-808DDA2E9367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22356143-29E5-4DC7-AADD-808DDA2E9367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22356143-29E5-4DC7-AADD-808DDA2E9367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93905E0E-1C06-47E5-9B30-DC90F79A5B69}
+	EndGlobalSection
+EndGlobal

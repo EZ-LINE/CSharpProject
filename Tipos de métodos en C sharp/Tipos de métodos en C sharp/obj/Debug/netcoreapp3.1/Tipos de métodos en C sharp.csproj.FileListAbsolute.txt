@@ -1,0 +1,13 @@
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\bin\Debug\netcoreapp3.1\Tipos de métodos en C sharp.exe
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\bin\Debug\netcoreapp3.1\Tipos de métodos en C sharp.deps.json
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\bin\Debug\netcoreapp3.1\Tipos de métodos en C sharp.runtimeconfig.json
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\bin\Debug\netcoreapp3.1\Tipos de métodos en C sharp.runtimeconfig.dev.json
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\bin\Debug\netcoreapp3.1\Tipos de métodos en C sharp.dll
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\bin\Debug\netcoreapp3.1\Tipos de métodos en C sharp.pdb
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.csproj.AssemblyReference.cache
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.AssemblyInfoInputs.cache
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.AssemblyInfo.cs
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.csproj.CoreCompileInputs.cache
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.dll
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.pdb
+C:\Users\NB\source\repos\Tipos de métodos en C sharp\Tipos de métodos en C sharp\obj\Debug\netcoreapp3.1\Tipos de métodos en C sharp.genruntimeconfig.cache
